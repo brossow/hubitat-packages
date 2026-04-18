@@ -17,6 +17,14 @@
       "location": "https://raw.githubusercontent.com/brossow/hubitat-econet/main/packageManifest.json",
       "description": "Drivers for Rheem EcoNet thermostats and water heaters via the ClearBlade cloud API.",
       "tags": ["Cloud", "Climate Control", "Temperature & Humidity", "Water Heater"]
+    },
+    {
+      "id": "2219f951-b195-4f65-bf33-4d822c133d11",
+      "name": "Aeotec Heavy Duty Smart Switch",
+      "category": "Control",
+      "location": "https://raw.githubusercontent.com/brossow/hubitat-aeotec-switch/main/packageManifest.json",
+      "description": "Z-Wave driver for the Aeotec Heavy Duty Smart Switch (ZW078). Controls high-current loads up to 40A with full power metering — watts, kWh, volts, amps, and temperature. Maintained fork with bug fixes.",
+      "tags": ["Z-Wave", "Switch", "Energy Monitoring", "Power Meter"]
     }
   ]
 }
